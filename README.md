@@ -44,7 +44,7 @@ Welcome to the **Student Management System**, a robust and comprehensive API des
 2. **Create a Virtual Environment and Activate It**:
    ```bash
    python3 -m venv env
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
    ```
 
 3. **Install Dependencies**:
